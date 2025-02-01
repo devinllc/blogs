@@ -8,6 +8,6 @@ class ApiException implements Exception {
     if (message is String) {
       return message;
     }
-    return 'error: ${message}';
+    return 'error: $message';
   }
 }

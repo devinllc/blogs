@@ -8,7 +8,7 @@ class AddPost extends StatefulWidget {
 }
 
 class _GeneralState extends State<AddPost> {
-  QuillController _controller = QuillController.basic();
+  final QuillController _controller = QuillController.basic();
   @override
   Widget build(BuildContext context) {
     return Scaffold(

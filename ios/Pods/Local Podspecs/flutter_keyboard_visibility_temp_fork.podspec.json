@@ -17,9 +17,7 @@
   "swift_versions": "5.0",
   "source_files": "flutter_keyboard_visibility_temp_fork/Sources/flutter_keyboard_visibility_temp_fork/**/*.swift",
   "dependencies": {
-    "Flutter": [
-
-    ]
+    "Flutter": []
   },
   "platforms": {
     "ios": "9.0"

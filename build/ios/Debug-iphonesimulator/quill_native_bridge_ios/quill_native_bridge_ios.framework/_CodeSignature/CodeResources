@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/quill_native_bridge_ios-Swift.h</key>
 		<data>
-		L9XpGA7EebBA74JNuC3j9CPqArY=
+		Gw8XYFFZDFqTogeQfQ9HkGgjthE=
 		</data>
 		<key>Headers/quill_native_bridge_ios-umbrella.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0kr9TmpJk43wZJmDeJpms+gxZDY=
+		3oHSkPXVWYfX3XkBQuXQosvCzM4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		CABRW2JU9byPmGn/AFOGpjT9jQ8=
+		NmS86P0nIZ+DOV8f1d8HYuYWF+M=
 		</data>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		E3bRbJiQx3XRhqIo13pXdI9NC28=
+		7w02JBzJQzcSw57QRdN1u3kznyw=
 		</data>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		AJqpC29Xl+t+rdvLzOYUHSi81Mc=
+		IVJlYZ77iHPG6L0tzsxaXnlivEI=
 		</data>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2HoKk+fKUJ5XPCxvJKPOghu1Iik=
+		HoyFKajIhL884DYSnWRXBL2OzzE=
 		</data>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,15 +46,15 @@
 		</data>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		OiwzFdrva0VPryGpgxBltpOV0O0=
+		KHLqrPZ6aEExIKZrd2xS0uu6yCk=
 		</data>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2Ch/uUPahBwR2xaXcyGYB3irUQQ=
+		iBIj3ius61JhCI+9M3eJ0M7Lp3Y=
 		</data>
 		<key>quill_native_bridge_ios_privacy.bundle/Info.plist</key>
 		<data>
-		mOnsmnsnQvi8opnlR6rYaepBm7k=
+		1isQc33nBtPVsjn1hNJQaI626Fw=
 		</data>
 		<key>quill_native_bridge_ios_privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hG67Ty4HvWwxglcNkPicN5sg8xskSl+hSAgnmi6R/pI=
+			UfsSYc8ptgX6O4do+j0gVDFtsOyb2dbsmD4gQCramAc=
 			</data>
 		</dict>
 		<key>Headers/quill_native_bridge_ios-umbrella.h</key>
@@ -88,14 +88,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8oMiNw4YaQskZc9y82gxDYItjYzwYg65XmvqyPkeigU=
+			GQRTHjWSAHUcV7dQMuT5rjA0NFeSCaEdCZuRyLKkiko=
 			</data>
 		</dict>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IOtEbh9WTd5PSs1G4JwiyoxPHkrnKZZ8T+lIjnAJZxc=
+			Z0lvIG6DnGqycs78wgtYmkS7lG57gXYdwdWsF/bKzzE=
 			</data>
 		</dict>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TlNei3CI/ZcRyhCLjHpyALx/EE9YHPqZlIbkZcB7rXE=
+			mHzGbnzWs3rgHHovCjWlb0iNONUBl1OsHZLdignHdeU=
 			</data>
 		</dict>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			32h1QMEgXw6i+NgJOuxcDuZtfk3erq9cCIZFux4CxTM=
+			YKOPe4GYp9ePoA6d9Rz52FoWkLg0IjTu9bt+8WTEtJo=
 			</data>
 		</dict>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -130,21 +130,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VpfrvWAndtXjpzzjRTcreCHk1EiGk2jFmzxsdfil9l4=
+			gOgFCwDgH8lsWhekGJ8w4/wtd0nj51bTHql/KiZ3wkY=
 			</data>
 		</dict>
 		<key>Modules/quill_native_bridge_ios.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q+EESraRufe1V0iP8PA6KyaijffsYrRpIzuF2obgp5k=
+			XDX28U7DLOEh0bX6qCD0tRiblcwx2jiFEvZQYEz+S2w=
 			</data>
 		</dict>
 		<key>quill_native_bridge_ios_privacy.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			poser+yPhEqGqqXnwYYk40NuyvdmZPhk77NYG+Lcgy8=
+			pFqjS6u5l8f/9/hUM+vx4GoQo9bHAEVyf3jTlnZ/X70=
 			</data>
 		</dict>
 		<key>quill_native_bridge_ios_privacy.bundle/PrivacyInfo.xcprivacy</key>

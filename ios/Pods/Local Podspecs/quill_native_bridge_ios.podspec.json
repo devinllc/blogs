@@ -16,9 +16,7 @@
   },
   "source_files": "quill_native_bridge_ios/Sources/quill_native_bridge_ios/**/*.swift",
   "dependencies": {
-    "Flutter": [
-
-    ]
+    "Flutter": []
   },
   "platforms": {
     "ios": "12.0"
